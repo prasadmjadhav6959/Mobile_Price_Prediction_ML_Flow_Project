@@ -1,2 +1,2 @@
-# Mobile_Price_Prediction_ML_Flow_Project
-Mobile_Price_Prediction_ML_Flow_Project
+# Mobile Price Prediction ML_Flow Project
+Innomatics Research Labs
